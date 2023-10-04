@@ -1,0 +1,16 @@
+C:\Projetos\Estudo\cqrs\infra\bin\Debug\net7.0\infra.deps.json
+C:\Projetos\Estudo\cqrs\infra\bin\Debug\net7.0\infra.dll
+C:\Projetos\Estudo\cqrs\infra\bin\Debug\net7.0\infra.pdb
+C:\Projetos\Estudo\cqrs\infra\bin\Debug\net7.0\core.dll
+C:\Projetos\Estudo\cqrs\infra\bin\Debug\net7.0\core.pdb
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.csproj.AssemblyReference.cache
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.AssemblyInfoInputs.cache
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.AssemblyInfo.cs
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.sourcelink.json
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.csproj.CopyComplete
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.dll
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\refint\infra.dll
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\infra.pdb
+C:\Projetos\Estudo\cqrs\infra\obj\Debug\net7.0\ref\infra.dll
